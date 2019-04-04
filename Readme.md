@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [WebForm1.aspx](./CS/ASPxOlapRetrieveFieldsExample/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/ASPxOlapRetrieveFieldsExample/WebForm1.aspx))
-* [WebForm1.aspx.cs](./CS/ASPxOlapRetrieveFieldsExample/WebForm1.aspx.cs) (VB: [WebForm1.aspx](./VB/ASPxOlapRetrieveFieldsExample/WebForm1.aspx))
+* [WebForm1.aspx.cs](./CS/ASPxOlapRetrieveFieldsExample/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/ASPxOlapRetrieveFieldsExample/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to connect ASPxPivotGrid to an OLAP datasource
 
